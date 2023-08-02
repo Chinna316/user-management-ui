@@ -58,3 +58,6 @@ class DeleteEmp extends Component {
 }
 
 export default withRouter(DeleteEmp);
+
+
+//delete
